@@ -1,14 +1,11 @@
-        hackbytes.com-resources r0.1 for hackbytes.com v0.1
+        hackbytes.com-resources r0.1 <http://hackbytes.com>
 
 This is the submodule repository containing resources used by
 hackbytes.com.  The master repository can be found at:
 
-http://github.com/byronsanchez/hackbytes.com
+  http://github.com/byronsanchez/hackbytes.com
 
 INSTRUCTIONS
-
-  To use this as a dependency for hackbytes.com, you must add this to
-  the resources/ directory of the hackbytes.com root directory.
 
   To add this repository to the hackbytes.com repository as a submodule:
 
@@ -18,7 +15,7 @@ INSTRUCTIONS
 
 STRUCTURE
 
-  Here is how the resources/ tree is structured.
+  The repository tree structure.
 
     favicons/   - contains all favicons used by hackbytes.com. This is
                   separated from the img/ directory because it is
